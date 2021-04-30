@@ -13,7 +13,7 @@ At the end we performed some experimets - CNNs with different maximum length of 
 Findings
  - 100D GloVe is enough for this task
  - 500 maximum length of the review gave the best results
- - CNNs outperforms all the others among considered
+ - CNNs outperforms RNN and VADER
  - negative reviews are completely different even on high level analysis (most frequent words, words clouds)
 
 In this project I learnt a lot about NLP. I find data preparation very cool, especially hand coded tokenization and sentence vectorization. All the vocabulary, coverage and cleaning with regex stuff vas very interesting for me. I found visualizations in NLP tasks very cool too. It was one of my favourite problems during my studies. 
