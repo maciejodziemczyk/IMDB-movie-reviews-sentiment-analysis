@@ -27,6 +27,6 @@ In this project I learnt a lot about NLP. I found data preparation very cool, es
  - Jupyer Notebook
 
 ## Authors
- - Bartłomiej Kuźma
+ - [Bartłomiej Kuźma](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
  - Maciej Odziemczyk
 
