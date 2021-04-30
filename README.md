@@ -16,11 +16,15 @@ Findings
  - CNNs outperforms RNN and VADER
  - negative reviews are completely different even on high level look (most frequent words, words clouds)
 
-In this project I learnt a lot about NLP. I find data preparation very cool, especially hand coded tokenization and sentence vectorization. All the vocabulary, coverage and cleaning with regex stuff vas very interesting for me. I found visualizations in NLP tasks very cool too. It was one of my favourite problems during my studies. 
+In this project I learnt a lot about NLP. I found data preparation very cool, especially hand coded tokenization and sentence vectorization. All the vocabulary, coverage and cleaning with regex stuff was very interesting for me. I found visualizations in NLP tasks very cool too. It was one of my favourite problem during my studies. 
 
 ## Repository description
  - Kuzma_Odziemczyk_project.ipynb - Jupyter Notebook with analysis (Python)
  - own.py - some functions used in notebook exported for easier experiments
+
+## Technologies
+ - Python (pandas, numpy, matplotlib.plt, seaborn, regex, scikit-learn, keras)
+ - Jupyer Notebook
 
 ## Authors
  - Bartłomiej Kuźma
